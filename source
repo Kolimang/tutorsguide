@@ -1,0 +1,239 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{The Hitchhiker's Guide to... Tutors}
+\author{chly-huc / Archi}
+\date{Last updated : August 2024}
+
+\begin{document}
+
+\maketitle
+
+{
+  \tableofcontents
+}
+
+\section{Introduction}
+
+This is an introduction.
+
+\subsection{What are the Tutors}
+
+Tutors are here to \textbf{"help"} managing the school, organize exams, organize, and coordinate various educational events at 19.\\
+
+They are helping on :
+\begin{itemize}
+    \item Exams
+    \item Sprints
+    \item SLTC
+    \item etc.
+\end{itemize}
+
+% They are in charge of :
+
+\subsection{The general organisation of Tutors}
+
+Tutors are managed by Supervising tutors
+
+\subsubsection{What's the difference between Tutors and \textit{Supervisor}}
+
+There is none (Did you get the joke?). \\
+Supervisors are just tutors who oversee and ensure that everything runs smoothly without other tutors needing to worry about it. \\
+
+They are also kind of "\textit{spokespersons}" of the tutors for the bocal, if you have something to suggest or things you want to do, don't hesitate to contact them.
+Although, it doesn't mean you can't go to the bocal directly, but it's always better to annoy tutors before them :) \\
+
+% TIC "Tutors in Charge"
+
+\subsubsection{How to become a Tutors}
+
+Anyone can become a tutor. You can contact a supervising tutor or attend a kick-off session when one is organized.
+
+\subsubsection{How to leave the Tutors}
+
+You are free to leave whenever you like. All you have to do is leave the slack channel. If you leave the tutors, it's not definitive. You start again as many times as you like.
+
+\subsection{What is  your goal as a Tutors}
+
+This is a \textbf{volunteer} things and you do as you wish, as you want, when you want.
+As a tutors you are the "fuel" of the school, without tutors, it will be really complicated
+We really encourage you to take initiative at proposing event and things if you want to organize one.
+You will be heard, whenever if it's doable or not.
+
+
+Some example of things possible:
+\begin{itemize}
+    \item Treasure hunt
+    \item Monkey-Type
+    \item The Game (this one is a big one, not gonna lie)
+    \item AMA with Pisciners
+    \item Debugging sessions
+\end{itemize}
+
+Thought don't forget that if nobody or not enough people are available for x or y event (including exam), the event will be canceled.
+
+\subsection{As a tutor, what to do if... }
+\subsubsection{You want to become a Supervising tutor}
+As easy as contacting a Supervising tutor, we will planned a time to talk with you and see what is your goal and why.
+\subsection{...}
+
+\subsubsection{}
+\clearpage
+
+\section{Exams}
+
+\textbf{Role of the tutors} : Organisation and surveillance of Exam
+\\
+\textbf{Retribution} : \textit{Logtime} and \textit{Wallet points}
+
+\subsection{General rules for any exams :}
+\begin{itemize}
+    \item We welcome the exam participants \textbf{20 min} before the start
+    \item Exam participants can enter the cluster with only their access \textbf{badge}, a closed bottle of water (water only), a pen and virgin loose sheet papers. Nothing in their pockets.
+    \item \textbf{No food} allowed
+    \item No connected devices are allowed, even turned OFF
+    \item All other items, bags and personal stuff have to remain outside of the clusters, on the side of the main hall.
+    \item Exam participants can't choose their place. Tutors address them to seats.
+    \item In the clusters, \textbf{NO TALK} is allowed. Tutors can make a gentle reminder of this rule, after it, any talking exam participant need to be asked to leave the room.
+    \item Bottles must remain on the floor.
+    \item For any question, exam participants need to STAND UP.
+    \item PLEASE OPEN THE WINDOWS
+\end{itemize}
+
+
+\subsection{Bocal and Tutors exams}
+
+Since Novembre 2023, and some difficulty in guaranteeing the organisation of exams due to a lack of tutors, the Bocal have instituted new rules for exams.
+
+
+\subsubsection{Bocal exams}
+
+Every two months, are organised "Bocal exams". They happen on Tuesdays, at 10am. They are normal exams but guaranteed by the Bocal : if not enough tutors can be present to watch the exam, the Bocal team will take over and make sure the exam will be happening. 
+Only Bocal exams will be guaranteed.
+
+\subsubsection{Tutor exams}
+
+On top of the "Bocal exams", Tutors can organise exams at their time and hour convenience. \\
+NB : At the moment, 1 exams is guaranteed the first Thursday (week) of the month, and 1 optional the last Thursday (week) of the month, so 2 max per months
+
+\subsubsection{Exam Attendance}
+When you are subscribed to an exam, either as Student or a Tutors, you \textbf{have to be present}.
+Thought, you can notify any Supervising tutor if you can't come. \\
+If you still don't respect this rule, the reward will be a TIG. \\
+(\textit{2h} for tutors and \textit{2h X number of absent} for student)
+
+\subsubsection{How to ask for a Tutor exam : }
+You can still ask to organize an exam, if so, please reach one of the supervising tutors. \\
+Here are the prerequisites :
+\begin{itemize}
+    \item 15 students
+    \item 3~ tutors \textbf{PER} period \textbf{PER} cluster
+    \item No event already planned
+\end{itemize}
+The Rules are the same for the tutors exam. \\
+
+\textbf{Supervising tutors can decide to cancel an exam if not enough tutors are available.}
+
+\section{Sprint}
+\textbf{Roles of tutors} : \textit{Helpers} \\
+\textbf{Retribution} : \textit{Coalition Points, Achievements} \\ 
+Sprints will be organized in the first week of each month. We'll need tutors to act as 'Helper'. Every 2 days, a meeting will be organized with the sprinters to check their progress and guide them.
+That's why we're looking for tutors who have a good grasp of the project they want to 'manage'.
+
+\clearpage
+
+\section{Piscine}
+
+\subsection{Tutoring during the Piscine}
+Tutoring during the Piscine is another thing.
+You don't have the same "roles" as before and sometimes it can be quite difficult to know what to do in some cases. \\
+Tutors during Piscine, when they want, can:
+\begin{itemize}
+    \item Help piscineurs for \textbf{starting the piscine} and only for that.
+    \item Notify the bocal when you think something is wrong
+\end{itemize}
+Yes, the list is short, but it is normal, as a tutor, we are not supposed to interfere too much in the piscine \\ 
+NB : Pisciners can't use the BeCentral, nor the ping pong table
+
+\subsection{NON EXHAUSTIVE LIST OF THINGS A TUTOR CANNOT DO DURING THE PISCINE}
+\begin{itemize}
+    \item Give coding advice to piscineurs (website, pure code, or other form of help that can speed up significantly their progression)
+    \item Incentives "wrong" use of programming tools (Chat-GPT, Github, and so on)
+    \item Going to the "Piscine cluster" for no REAL reason (Saying hello to your friend every 30 min is not)
+    \item \textbf{Spreading false rumours}
+    \item Trolling piscineurs in any manners *(Should be define)*
+\end{itemize}
+
+\clearpage
+\subsection{Tutoring during the PISCINE EXAM}\
+The rules and good behavior change for the Piscine exam and especially for the 1st one.\\
+Basically, it's the same as a classic Exam with some addition but a little reminder is always a good idea :) : 
+\begin{itemize}
+    % \item 1h before the exam, (we clear all the cluster, looking for any things left, USB-stick still plugged, or anything that might help someone cheat. Please be careful at USB, Mouse and any paper left)
+    \item 40min before the exam, we regroup all tutors for a little recap, and AMA.
+    \item We welcome the exam piscineurs 30 min before the start, they put their bag on the side with their Phone OFF ! (They can only enter if verified by a \textbf{SUPERVISING} tutors) and they can't choose their place.
+    \item In the clusters, \textbf{NO TALK} is allowed. Tutors can make a gentle reminder of this rule, after it, any talking exam participant need to be asked to leave the room.
+    \item \textbf{No food} allowed (Except for the \textbf{LAST EXAM}).
+    \item For any question, they need to STAND UP.
+    \item For the 1st exam and 2nd exam, tutors can help on any login problem (remember: login not in caps lock), git problem, or anything not related to pure coding. After that, only login problem.
+    \item When someone has finished his exam, they need to leeeeaaaaaaave
+    \item PLEASE OPEN THE WINDOWS
+\end{itemize}
+As for \textbf{HOW} you are suppose to behave during the exam.
+\begin{itemize}
+    \item Please do not stay behind someone. Looking at their code for no reason can be really \textbf{stressfull}. This can be really frustrated for some and make them stress.
+    \item Keep a reasonable amount of tutors in the clusters (basically at least 3 tutors on a full clusters + toilet).
+    \item While you can listen to music, always have one ear free
+    \item Of course, you \textbf{can't help} for anything related to code, \textbf{right} ? 
+    \item If you think something is wrong, or you have any doubt, don't hesitate to contact a supervisor tutor.
+    
+    
+\end{itemize}
+\clearpage
+\section{Event for externals}
+
+
+\subsection{She Love to Code (SLTC)}
+\textbf{Roles of tutors} : \textit{Helpers} \\
+\textbf{Retribution} : \textit{Coalition Points} \\ 
+During a She Loves To Code, there is different topics:
+\begin{itemize}
+    \item Python
+    \item Cyber Security
+    \item HTML/CSS
+    \item SHELL
+    \item C
+\end{itemize}
+
+\subsection{EmpowHer}
+
+\begin{itemize}
+    \item HTML
+    \item CSS
+    \item Java Script
+    \item Website Development
+\end{itemize}
+
+
+The main goal of tutors during SLTC is to help them with their issues and answer their questions. Try to pass the same time with all participants. \\
+As for empowHer, it's like a piscine, so every Piscine "rule" applies to it
+\\
+% You already know what I'm gonna say, if we witness any misbehaviour it will be reported to the bocal!
+Yeah, i know, You already knew what i was about to say :
+\begin{itemize}
+    \item Be respectful
+    \item Be respectful
+    \item Be respectful
+    \item It's not a Tinder event :)
+    \item Don't stay with the same person too long if they don't ask.
+    \item Be respectful
+    \item Be respectful
+    \item Be respectful
+    \item \textbf{You are a great person}
+\end{itemize}
+
+\clearpage
+
+
+This survival guide is subject to change and , if you want to add/change something, please don't hesitate and contact, @chly-huc on slack.
+\end{document}
