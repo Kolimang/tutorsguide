@@ -17,9 +17,9 @@
 
 This is an introduction.
 
-\subsection{What are the Tutors}
+\subsection{What are tutors ?}
 
-Tutors are here to \textbf{"help"} managing the school, organize exams, organize, and coordinate various educational events at 19.\\
+Tutors are students who \textbf{"help"} managing the school, organize exams, organize and coordinate various educational events at 19.\\
 
 They are helping on :
 \begin{itemize}
@@ -45,15 +45,15 @@ Although, it doesn't mean you can't go to the bocal directly, but it's always be
 
 % TIC "Tutors in Charge"
 
-\subsubsection{How to become a tutor}
+\subsubsection{How to become a tutor ?}
 
 Anyone can become a tutor. You can contact a supervising tutor or attend a kick-off session when one is organized.
 
-\subsubsection{How to leave the tutors}
+\subsubsection{How to leave the tutors ?}
 
-You are free to leave whenever you like. All you have to do is leave the slack channel. If you leave the tutors, it's not definitive. You start again as many times as you like.
+You are free to leave whenever you like. All you have to do is leave the slack channel. If you leave the tutors, it's not definitive. You can join the tutors again as many times as you like.
 
-\subsection{What is  your goal as a tutor}
+\subsection{What is  your goal as a tutor ?}
 
 This is a \textbf{volunteer} thing and you do as you wish, as you want, when you want.
 As a tutor you are the "fuel" of the school. Without enough tutors, it would be really complicated.
@@ -73,8 +73,8 @@ Some examples of possible events/activities:
 Be aware that if not enough people are available for your event (or any event, including exams), the event will be canceled.
 
 \subsection{As a tutor, what to do if... }
-\subsubsection{You want to become a Supervising tutor}
-As easy as contacting a Supervising tutor, we will plan a time to talk with you and see what is your goal and why.
+\subsubsection{You want to become a supervising tutor ?}
+It's as easy as contacting a supervising tutor. Together we will plan a time to talk with you and see what is your goal and why.
 \subsection{...}
 
 \subsubsection{}
@@ -93,7 +93,7 @@ As easy as contacting a Supervising tutor, we will plan a time to talk with you 
     \item \textbf{No food} allowed (except for the final piscine exam)
     \item No connected devices are allowed, even turned OFF.
     \item All other items, bags and personal stuff have to remain outside of the clusters, on the side of the main hall.
-    \item Exam participants can't choose their place. Tutors address them to seats.
+    \item Exam participants can't choose their seat. Tutors address them to seats.
     \item In the clusters, \textbf{NO TALK} is allowed. Tutors can make a gentle reminder of this rule, after it, any talking exam participant need to be asked to leave the room.
     \item Bottles must remain on the floor.
     \item For any question, exam participants need to STAND UP.
@@ -158,7 +158,7 @@ NB : Pisciners can't use the BeCentral, nor the ping pong table.
 \subsection{NON EXHAUSTIVE LIST OF THINGS A TUTOR CANNOT DO DURING THE PISCINE}
 \begin{itemize}
     \item Give coding advice to pisciners (website, pure code, or other form of help that can speed up significantly their progression)
-    \item Incentive "wrong" use of programming tools (Chat-GPT, Github, and so on)
+    \item Suggest/Encourage "wrong" use of programming tools (Chat-GPT, Github, and so on)
     \item Going to the "Piscine cluster" for no REAL reason (Saying hello to your friend every 30 min is not)
     \item \textbf{Spreading false rumours}
     \item Trolling pisciners in any manners *(Should be defined)*
@@ -179,7 +179,7 @@ Basically, it's the same as a classic Exam with some addition but a little remin
     \item When someone has finished their exam, they need to leeeeaaaaaaave.
     \item PLEASE OPEN THE WINDOWS
 \end{itemize}
-As for \textbf{HOW} you are supposed to behave during the exam.
+As for \textbf{HOW} you are supposed to behave during the exam :
 \begin{itemize}
     \item Please do not stay behind someone. Looking at their code for no reason can be really \textbf{frustrating} and/or \textbf{stressfull}.
     \item Keep a reasonable amount of tutors in the clusters (basically at least 3 tutors on a full cluster + toilet).
@@ -216,7 +216,7 @@ During a She Loves To Code, there are different topics:
 
 
 The main goal of tutors during SLTC is to help them with their issues and answer their questions. Try to pass the same time with all participants. \\
-As for empowHer, it's like a piscine, so every Piscine "rule" applies to it.
+As for EmpowHer, it's like a piscine, so every Piscine "rule" applies to it.
 \\
 % You already know what I'm gonna say, if we witness any misbehaviour it will be reported to the bocal!
 Yeah, I know, you already knew what I was about to say :
